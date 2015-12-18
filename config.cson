@@ -1,0 +1,16 @@
+"*":
+  "exception-reporting":
+    userId: "796a5dcf-0a59-e20d-b26e-fd74d0ee1ffe"
+  welcome:
+    showOnStartup: false
+  core:
+    disabledPackages: [
+      "vim-mode"
+    ]
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    invisibles: {}
+  "lisp-paredit": {}

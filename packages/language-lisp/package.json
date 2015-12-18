@@ -1,0 +1,35 @@
+{
+  "name": "language-lisp",
+  "version": "0.1.2",
+  "private": true,
+  "description": "Lisp support for Atom (converted from Textmate bundle)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enriquefernandez/language-lisp"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "# language-lisp package\n\nConverted from [Texmate lisp bundle](https://github.com/textmate/lisp.tmbundle) as explained in the [atom guide](http://atom.io/docs/latest/converting-a-text-mate-bundle).\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/enriquefernandez/language-lisp/issues"
+  },
+  "homepage": "https://github.com/enriquefernandez/language-lisp",
+  "_id": "language-lisp@0.1.2",
+  "_shasum": "9e88c211f93f39d6acb17631164c077261f2bd95",
+  "_resolved": "file:../d-115618-1296-11v63b2/package.tgz",
+  "_from": "../d-115618-1296-11v63b2/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
